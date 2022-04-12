@@ -1,0 +1,7 @@
+download/
+node_modules/
+
+notes-do-not-commit.txt
+lambda_api.log
+local.log
+readme.pdf
