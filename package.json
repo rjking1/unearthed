@@ -3,6 +3,10 @@
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
+        "@babel/cli": "^7.17.6",
+        "@babel/core": "^7.17.9",
+        "@babel/preset-env": "^7.16.11",
+        "@babel/register": "^7.17.7",
         "@wdio/browserstack-service": "^7.19.3",
         "@wdio/cli": "^7.19.0",
         "@wdio/cucumber-framework": "^7.19.0",

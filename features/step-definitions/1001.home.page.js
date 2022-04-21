@@ -1,4 +1,4 @@
-const { Given, When, Then } = require('@wdio/cucumber-framework');
+import { Given, When, Then } from '@wdio/cucumber-framework';
 
 Given("I go to the Unearthed website", async () => {
   // comp: need enviro variables
